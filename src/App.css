@@ -1,0 +1,49 @@
+* {
+
+  max-width: 1160px;
+    margin: 0 auto;
+}
+
+.header {
+
+  width: 100%;
+  height: 20px;
+  
+}
+
+.header button {
+  margin-top: 10px;
+  border:none;
+  background: none;
+  text-decoration: none;
+  font-size: 13px;
+  cursor: pointer;
+  
+} 
+
+.navLink button:hover {
+  background-color: rgb(211, 244, 255);
+}
+
+.navLink button{
+  width: 10%;
+  border-radius: 5px;
+  padding: 7px;
+
+}
+
+
+.active .btnbtn-dark{
+  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+  color: black;
+}
+
+.btnbtn-dark:hover {
+  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+  color: black;
+}
+
+.btn-dark:hover{
+  box-shadow: 0 0 10px 0 #3498db inset, 0 0 10px 4px #3498db;
+  color: black;
+}

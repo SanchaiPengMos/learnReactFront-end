@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.namehotel {
+    font-size: 30px;
+    height: 35px;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+
+}
+.namehotel p {
+    color: rgb(0, 0, 0);
+    font-family: 'Courier New', Courier, monospace;
+}

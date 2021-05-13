@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.formEdit {
+    max-width: 100%;
+    text-align: center;
+
+}
+
+.headerEdit img {
+    margin-top: 40px;
+    border-radius: 50%;
+    width: 15%;
+    
+}
+
+.table-Eidt {
+    text-align: left;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.btn-edit {
+    margin-top: 10px;
+}
+
+.table-Eidt table input {
+    height: 30px;
+}
